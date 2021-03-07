@@ -1,7 +1,5 @@
 # coding
-hello world
-
-I had two bowls of rice today.
+my love
 
 An empty street
 An empty house
