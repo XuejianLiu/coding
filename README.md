@@ -1,6 +1,5 @@
 # coding
-my love
+git learning
+git pull origin master
+git push origin master
 
-An empty street
-
-An empty house
